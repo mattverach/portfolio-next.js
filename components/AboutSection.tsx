@@ -30,7 +30,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-            Hello, my name is Matías Vera, and I am a software developer based in CABA, Buenos Aires and I'm fluent both in English and Spanish. I have over a year of experience as a Software Developer, working for a world-renowned bank, where I mostly use Java with Spring Framework to develop APIs that communicate the frontend of the bank with Salesforce. I also developed several systems within Salesforce, which allowed me to gain a deep understanding of the platform.
+            Hello, my name is Matías Vera, and I am a software developer based in CABA, Buenos Aires and Im fluent both in English and Spanish. I have over a year of experience as a Software Developer, working for a world-renowned bank, where I mostly use Java with Spring Framework to develop APIs that communicate the frontend of the bank with Salesforce. I also developed several systems within Salesforce, which allowed me to gain a deep understanding of the platform.
             </p>
             <br />
             <p>
