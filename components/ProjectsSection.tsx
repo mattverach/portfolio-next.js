@@ -28,15 +28,6 @@ const projects = [
     github: "https://github.com/hqasmei/platoio",
     link: "https://platoio.com/register",
   },
-  {
-    name: "Conferences",
-    description:
-      "Cloned conference themed site. Built with HTML, CSS, and JavaScript.",
-    image: "/conferenciasbsas.jpg",
-    github: "https://github.com/mattverach/ConferenciasBsAs",
-    link: "https://conferenciasbsas-matiasvera.netlify.app/",
-  },
-
 ]
 
 const ProjectsSection = () => {
